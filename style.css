@@ -1,0 +1,15 @@
+.contactbutton {
+  border-radius:8px;
+  background: linear-gradient(white 1%, black 99%);
+}
+.contacttext {
+  margin-top:3px;
+  margin-bottom:4px;
+  color:white;
+  text-shadow: 2px 2px black;
+}
+}
+body {
+  min-height:1000px;
+  background: linear-gradient(white 1%, black 99%);
+}
