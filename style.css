@@ -27,3 +27,9 @@ body {
   display:flex;
   gap:5px;
 }
+.toptext {
+  margin-left: 850px;
+}
+.description {
+  margin-left: 770px;
+}
