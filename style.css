@@ -26,7 +26,8 @@ body {
 .bar {
   display:flex;
   gap:5px;
+  flex-direction:row;
 }
 .toptext {
-  text-align:center;
+  margin-left: 850px;
 }
