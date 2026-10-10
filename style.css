@@ -11,7 +11,7 @@
 }
 body {
   min-height:1000px;
-  background: linear-gradient(white 1%, black 99%);
+  background: linear-gradient(white 1%, orange 99%);
 }
 .Updatebutton {
   border-radius:8px;
@@ -26,10 +26,8 @@ body {
 .bar {
   display:flex;
   gap:5px;
+  margin-right:1165px;
 }
 .toptext {
   margin-left: 850px;
-}
-.description {
-  margin-left: 770px;
 }
