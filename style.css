@@ -26,7 +26,6 @@ body {
 .bar {
   display:flex;
   gap:5px;
-  margin:0;
 }
 .toptext {
   margin-left:850px;
